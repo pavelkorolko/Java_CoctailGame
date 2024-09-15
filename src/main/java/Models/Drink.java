@@ -62,11 +62,7 @@ public class Drink {
         }
     }
 
-<<<<<<< HEAD
-    public String getDrinkName() {
-=======
     public String getInitialDrinkName() {
->>>>>>> b5c7482 (Amendmends for first commit)
         return strDrink;
     }
 }
